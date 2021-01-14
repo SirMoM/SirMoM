@@ -1,8 +1,3 @@
-<style>
-body {
-    background-color: #161b22;
-}
-</style>
 <h1 align="center">Moin 👋, I'm Sir.MoM</h1>
 <h3 align="center">A whatever interests me today kind of developer</h3>
 
