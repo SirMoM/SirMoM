@@ -7,7 +7,7 @@ body {
 <h3 align="center">A whatever interests me today kind of developer</h3>
 
 <p align="center">
-<a style="height: 28px"><img height="28" src="https://komarev.com/ghpvc/?username=sirmom&label=PROFILE+VIEWS&color=12af69&style=flat-square"/></a>
+<img width="150" height="28" src="https://komarev.com/ghpvc/?username=sirmom&label=Profile+views&color=12af69&style=flat-square"/>
 <a style="height: 28px" href="https://twitter.com/sir_mom" target="blank"><img src="https://img.shields.io/twitter/follow/sir_mom?logo=twitter&style=for-the-badge" alt="sir_mom" /></a>
 <a style="height: 28px"><img src="https://img.shields.io/badge/GHP-Website-green&?style=for-the-badge&?link=https://sirmom.github.io/SirMoMio/&link=https://sirmom.github.io/SirMoMio/" alt="sir_mom" /></a>
 </p>
